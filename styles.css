@@ -1,0 +1,70 @@
+/* typography */
+.headline60 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72px;
+}
+.headline48 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+}
+.headline36 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+}
+.headline30 {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 40px;
+}
+.headline24 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+}
+.headline20 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 22px;
+}
+.body20 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.body18 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+}
+.bodt16 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.body14 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+}
+.label14 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 12px;
+}
+.label12 {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+}
+.caption12 {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
